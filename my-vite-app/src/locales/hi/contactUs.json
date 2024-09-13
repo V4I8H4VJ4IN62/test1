@@ -1,0 +1,50 @@
+{
+    "form": {
+      "leaveMessage": "संदेश छोड़ें",
+      "title": "हम आपकी बात सुनने के लिए उत्सुक हैं!",
+      "fields": {
+        "name": "आपका नाम",
+        "email": "आपका ईमेल",
+        "subject": "आपका विषय",
+        "message": "आपका संदेश"
+      },
+      "submitButton": "जमा करें"
+    },
+    "members": {
+      "sectionTitle": "AgriDrishti के सदस्य",
+      "people": [
+        {
+          "name": "वैभव जैन",
+          "phone": "फ़ोन: +91 XXXXXXXXXX",
+          "email": "ईमेल: abc@gmail.com"
+        },
+        {
+          "name": "निरंजन प्रवीण",
+          "phone": "फ़ोन: +91 XXXXXXXXXX",
+          "email": "ईमेल: abc@gmail.com"
+        },
+        {
+          "name": "देबशाता चौधरी",
+          "phone": "फ़ोन: +91 XXXXXXXXXX",
+          "email": "ईमेल: abc@gmail.com"
+        },
+        {
+          "name": "अभिषेक चौबे",
+          "phone": "फोन: +91 XXXXXXXXXX",
+          "email": "ईमेल: abc@gmail.com"
+        },
+        {
+          "name": "स्नेहा तंवर",
+          "phone": "फोन: +91 XXXXXXXXXX",
+          "email": "ईमेल: abc@gmail.com"
+        },
+        {
+          "name": "प्रथम रंजन",
+          "phone": "फोन: +91 XXXXXXXXXX",
+          "email": "ईमेल: abc@gmail.com"
+        }
+        
+      ]
+    }
+  }
+  

@@ -1,0 +1,21 @@
+{
+  "loginContainer": {
+    "links": [
+      "मुख्य पृष्ठावर परत जा"
+    ],
+    "paragraph": "आपल्या फार्म बंधू खात्यात लॉगिन करा",
+    "forgetPasswordLink": "आपला पासवर्ड विसरलात का?",
+    "submitButton": "लॉगिन",
+    "emailPlaceholder": "आपला ईमेल प्रविष्ट करा",
+    "passwordPlaceholder": "आपला पासवर्ड प्रविष्ट करा",
+    "providerSignInContainer": {
+      "wrap": {
+        "small": "किंवा"
+      },
+      "providerButtons": [
+        "Google सह लॉगिन करा",
+        "Facebook सह लॉगिन करा"
+      ]
+    }
+  }
+}

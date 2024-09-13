@@ -1,0 +1,21 @@
+{
+  "loginContainer": {
+    "links": [
+      "హోమ్ పేజీకి తిరిగి వెళ్ళండి"
+    ],
+    "paragraph": "మీ ఫామ్ బంధు ఖాతా లో లాగిన్ చేయండి",
+    "forgetPasswordLink": "మీ పాస్వర్డ్ను మర్చిపోయారా?",
+    "submitButton": "లాగిన్",
+    "emailPlaceholder": "మీ ఇమెయిల్ ను నమోదు చేయండి",
+    "passwordPlaceholder": "మీ పాస్వర్డ్ను నమోదు చేయండి",
+    "providerSignInContainer": {
+      "wrap": {
+        "small": "లేదా"
+      },
+      "providerButtons": [
+        "గూగుల్ తో లాగిన్",
+        "ఫేస్‌బుక్ తో లాగిన్"
+      ]
+    }
+  }
+}

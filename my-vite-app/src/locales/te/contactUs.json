@@ -1,0 +1,49 @@
+{
+    "form": {
+      "leaveMessage": "సందేశం వదిలేయండి",
+      "title": "మేము మీ నుండి వినడానికి ఇష్టపడతాము!",
+      "fields": {
+        "name": "మీ పేరు",
+        "email": "మీ ఇమెయిల్",
+        "subject": "మీ అంశం",
+        "message": "మీ సందేశం"
+      },
+      "submitButton": "సమర్పించండి"
+    },
+    "members": {
+      "sectionTitle": "అగ్రిదృష్టి సభ్యులు",
+      "people": [
+        {
+          "name": "Vaibhav Jain",
+          "phone": "ఫోన్: +91 XXXXXXXXXX",
+          "email": "ఇమెయిల్: abc@gmail.com"
+        },
+        {
+          "name": "Niranjan Praveen",
+          "phone": "ఫోన్: +91 XXXXXXXXXX",
+          "email": "ఇమెయిల్: abc@gmail.com"
+        },
+        {
+          "name": "Debshata Choudhury",
+          "phone": "ఫోన్: +91 XXXXXXXXXX",
+          "email": "ఇమెయిల్: abc@gmail.com"
+        },
+        {
+          "name": "Abhishek Chaubey",
+          "phone": "ఫోన్: +91 XXXXXXXXXX",
+          "email": "ఇమెయిల్: abc@gmail.com"
+        },
+        {
+          "name": "Sneha Tanwar",
+          "phone": "ఫోన్: +91 XXXXXXXXXX",
+          "email": "ఇమెయిల్: abc@gmail.com"
+        },
+        {
+          "name": "Pratham Ranjan",
+          "phone": "ఫోన్: +91 XXXXXXXXXX",
+          "email": "ఇమెయిల్: abc@gmail.com"
+        }
+      ]
+    }
+  }
+  

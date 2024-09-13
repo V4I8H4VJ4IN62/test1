@@ -1,0 +1,21 @@
+{
+  "cropRecommendation": {
+    "backLinkText": "मुख्य पृष्ठावर परत",
+    "title": "पिकाची शिफारस",
+    "placeholders": {
+      "nitrogen": "नायट्रोजनचे प्रमाण",
+      "phosphorus": "फॉस्फरसचे प्रमाण",
+      "potassium": "पोटॅशियमचे प्रमाण",
+      "temperature": "तापमान (सेल्सियस मध्ये)",
+      "humidity": "आर्द्रतेचे प्रमाण",
+      "ph": "मातीचा pH",
+      "rainfall": "पर्जन्यमानाचे प्रमाण"
+    },
+    "cropYield": {
+      "area": "क्षेत्र (हेक्टेअर मध्ये)",
+      "production": "उत्पादन (हेक्टोग्राम मध्ये)"
+    },
+    "buttonText": "पीक भाकीत करा",
+    "resultTitle": "शिफारस केलेले पीक: {result}"
+  }
+}

@@ -1,0 +1,48 @@
+{
+    "section": {
+        "fePost-root": {
+            "authorDetails": {
+                "imgSrc": "pollChart",
+                "authorLink": "Featured Poll",
+                "date": "Tue, Jun 27, 2024"
+            },
+            "pollsSection": {
+                "poll1": {
+                    "title": "What Feature Do You Find Most Valuable in AgriDrishti?",
+                    "options": [
+                        "Price Volatility Predictor: Forecast sudden price changes in essential crops, including pulses and vegetables, to help farmers and traders make strategic decisions.",
+                        "Regional Price Impact Estimator: Analyze region-specific factors like landholding sizes, climate, and soil types to predict how these variables affect market prices.",
+                        "Market Trend Analysis: Review past price trends, production estimates, and market intelligence to make data-driven decisions on crop production.",
+                        "User-Friendly Interface: Access comprehensive market data easily with our intuitive platform."
+                    ],
+                    "totalVotes": "24",
+                    "daysLeft": "5 days left",
+                    "voteButtonText": "Vote now"
+                },
+                "poll2": {
+                    "title": "How Has AgriDrishti Helped You in Your Farming and Market Decisions?",
+                    "options": [
+                        "Improved Profit Margins: By predicting price volatility and determining the best times to release stock or sell crops.",
+                        "Better Market Understanding: Through detailed analyses of price trends, buffer stock interventions, and market volatility.",
+                        "Informed Crop Planning: Using predictive models and historical data to better plan crop cycles and align with market conditions.",
+                        "Enhanced Overall Productivity: By utilizing advanced data analytics and economic forecasting models such as ARIMA for price predictions."
+                    ],
+                    "totalVotes": "24",
+                    "daysLeft": "5 days left",
+                    "voteButtonText": "Vote now"
+                }
+            },
+            "postContent": {
+                "title": "AgriDrishti: Empowering Farmers and Stabilizing Markets",
+                "content": [
+                    "Supporting Farmers and Traders Across India: AgriDrishti is designed to help farmers, traders, and the Department of Consumer Affairs make informed decisions through data-driven insights and strategic market intelligence.",
+                    "Life on a farm is a school of patience. You can't hurry crops or make an ox in a day or two. -Henri Alain",
+                    "Welcome to AgriDrishti, your platform for predicting market volatility, crop performance, and analyzing key factors affecting food commodity prices.",
+                    "AgriDrishti aids in forecasting price trends of essential commodities like pulses (gram, tur, urad, moong, masur) and onions, supporting strategic decisions on buffer stock releases for market stabilization.",
+                    "Empower your farming decisions and maximize profitability with AgriDrishti's tailored data insights on price trends, crop production estimates, and regional market factors."
+                ],
+                "illustrationsTitle": "Key Illustrations for Market and Farming Decisions"
+            }
+        }
+    }
+}

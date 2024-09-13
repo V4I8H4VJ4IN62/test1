@@ -1,0 +1,24 @@
+{
+  "homeCharts": {
+    "historicalGrowthRates": {
+      "title": "पीक श्रेणींचे ऐतिहासिक वाढ दर",
+      "dataAvailable": "growthRates.length > 0",
+      "chartType": "रेषा"
+    },
+    "areaSharesOfCropCategories": {
+      "title": "पीक श्रेणींचे क्षेत्रातील वाटे",
+      "dataAvailable": "priceRealisation.length > 0",
+      "chartType": "पाई"
+    },
+    "areaSharesToGCA": {
+      "title": "GCA मधील पीक श्रेणींचे क्षेत्रीय वाटे",
+      "dataAvailable": "areaShares.length > 0",
+      "chartType": "बार"
+    },
+    "valueSharesOfCropCategories": {
+      "title": "पीक श्रेणींचे मूल्य वाटे",
+      "dataAvailable": "valueShares.length > 0",
+      "chartType": "रेषा"
+    }
+  }
+}

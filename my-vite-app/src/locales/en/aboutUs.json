@@ -1,0 +1,60 @@
+{
+    "aboutUs": {
+        "sectionTitle": "Welcome to AgriDrishti – Advanced Predictive Tools for Farmers and Market Stability",
+        "introduction": "Welcome to AgriDrishti, your trusted partner in providing advanced predictive tools to help farmers, traders, and the Department of Consumer Affairs make informed decisions about crop production, market trends, and price volatility.",
+        "dedication": "We are dedicated to supporting farmers, traders, and market regulators by equipping them with the data analytics tools needed to make strategic decisions for maximizing profits and stabilizing market prices.",
+        "whoWeAre": {
+            "title": "Who We Are",
+            "description": [
+                "AgriDrishti is a cutting-edge platform designed to help farmers, traders, and market regulators predict price volatility and make well-informed agricultural and market intervention decisions.",
+                "Our team consists of experts in agriculture, machine learning, and data science, committed to transforming decision-making through advanced predictive tools.",
+                "We understand the complexities of the agricultural market, including price volatility of essential commodities, and aim to simplify this process with our innovative solutions."
+            ]
+        },
+        "ourVision": {
+            "title": "Our Vision",
+            "description": [
+                "Our vision is to empower farmers, traders, and regulators by leveraging advanced predictive models to provide accurate and timely insights into crop prices, market trends, and strategic market interventions.",
+                "We aim to create a data-driven agricultural ecosystem that helps navigate market volatility, ensures profitability, and supports sustainable agricultural practices."
+            ]
+        },
+        "ourMission": {
+            "title": "Our Mission",
+            "description": [
+                "At AgriDrishti, our mission is to enable data-driven decisions by offering powerful predictive tools that benefit not only farmers and traders but also government agencies involved in price stabilization efforts.",
+                "We aim to enhance profitability for farmers and stability for markets by providing insights into price volatility, weather patterns, and region-specific factors that influence commodity prices."
+            ]
+        },
+        "whatWeOffer": {
+            "title": "What We Offer",
+            "offerings": [
+                {
+                    "tool": "Price Volatility Predictor",
+                    "description": "Our Price Volatility Predictor uses ARIMA and LSTM models to forecast sudden price changes in key crops such as pulses and vegetables. This tool assists farmers, traders, and government agencies in determining the best time to store or release stock for maximum profit or market stabilization."
+                },
+                {
+                    "tool": "Regional Price Impact Estimator",
+                    "description": "This tool analyzes region-specific factors like landholding sizes, climate, and soil types to provide tailored market intelligence, helping stakeholders anticipate how these factors will affect crop prices."
+                },
+                {
+                    "tool": "Market Trend Analysis",
+                    "description": "We offer data-driven insights into past price trends, supply data, and market interventions, enabling strategic agricultural activities and ensuring stability in food commodity markets."
+                }
+            ]
+        },
+        "ourCommitment": {
+            "title": "Our Commitment",
+            "description": [
+                "We are committed to continuously enhancing our predictive models by integrating the latest advancements in machine learning and data analytics for both farmers and regulatory bodies.",
+                "Our goal is to provide comprehensive and actionable insights that promote smarter decisions, higher profitability, and a more stable agricultural market."
+            ]
+        },
+        "joinUs": {
+            "title": "Join Us",
+            "description": [
+                "We invite you to join the AgriDrishti community and benefit from our advanced predictive tools, market insights, and support for strategic decision-making.",
+                "Together, we can empower farmers, traders, and market regulators to create a more successful, resilient, and stable agricultural sector."
+            ]
+        }
+    }
+}

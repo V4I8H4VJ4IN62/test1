@@ -1,0 +1,39 @@
+{
+    "form": {
+      "step1": {
+        "backLinkText": "హోమ్ పేజీకి తిరిగి వెళ్ళండి",
+        "title": "మీ ప్రాంతానికి సంబంధించిన ప్రత్యేక పరిస్థితులకు అనుగుణంగా ధరల అంచనా విశ్లేషణను అందుకోవడానికి క్రింద ఉన్న వివరాలను పూరించండి.",
+        "menuSteps": ["1", "2"],
+        "cropSelection": {
+          "label": "మీ పంట రకాన్ని ఎంచుకోండి",
+          "errorMessage": "ముందుకు వెళ్లడానికి ఒక ఎంపికను ఎంచుకోండి",
+          "nextButtonText": "తరువాత"
+        }
+      },
+      "step2": {
+        "stateSelection": {
+          "label": "మీ రాష్ట్రాన్ని ఎంచుకోండి",
+          "errorMessage": "ముందుకు వెళ్లడానికి ఒక ఎంపికను ఎంచుకోండి"
+        },
+        "districtSelection": {
+          "label": "మీ జిల్లా ఎంచుకోండి",
+          "errorMessage": "ముందుకు వెళ్లడానికి ఒక ఎంపికను ఎంచుకోండి"
+        },
+        "farmLandArea": {
+          "label": "మీ భూభాగం విస్తీర్ణాన్ని నమోదు చేయండి",
+          "hint": "(హెక్టార్లలో)",
+          "inputPlaceholder": "4.7 మరియు తదితరాలు"
+        },
+        "buttons": {
+          "backButtonText": "వెనక్కి",
+          "submitButtonText": "డేటాను ఇప్పుడే పొందండి"
+        },
+        "submittedData": {
+          "cropLabel": "crop.label",
+          "stateLabel": "state.label",
+          "hectares": "formData.area"
+        }
+      }
+    }
+  }
+  

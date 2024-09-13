@@ -1,0 +1,26 @@
+{
+    "form": {
+      "step1": {
+        "backLinkText": "Back to Home"
+      },
+      "yieldPrediction": {
+        "title": "Yield Prediction",
+        "fields": {
+          "crop": "Crop:",
+          "location": "Select State",
+          "season": "Select Season",
+          "year": "Select year",
+          "area": "Enter Farm Area",
+          "production": "Enter Production",
+          "rainfall": "Average Rainfall (mm/year):",
+          "fertilizer": "Fertilizer Amount (kilograms)",
+          "pesticide": "Pesticide Amount (kilograms)"
+        },
+        "buttonText": "Predict",
+        "result": {
+          "title": "Predicted Yield: "
+        }
+      }
+    }
+  }
+  

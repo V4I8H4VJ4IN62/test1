@@ -1,0 +1,15 @@
+{
+    "title": "Agri Drishti",
+    "home": "Home",
+    "news": "News",
+    "tools": {
+        "title": "Analytical Tools",
+        "links": ["Price Volatility Predictor", "Market Trend Analysis Tool", "Buffer Stock Price Analysis"]
+    },
+    "about": "About us",
+    "contact": "Contact us",
+    "signUp": "Sign Up",
+    "logIn": "Log In",
+    "logOut": "Log Out"
+}
+  

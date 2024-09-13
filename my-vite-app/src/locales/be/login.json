@@ -1,0 +1,21 @@
+{
+  "loginContainer": {
+    "links": [
+      "মুখ্য পৃষ্ঠায় ফিরে যান"
+    ],
+    "paragraph": "আপনার ফার্ম বন্ধুর অ্যাকাউন্টে লগ ইন করুন",
+    "forgetPasswordLink": "আপনার পাসওয়ার্ড ভুলে গেছেন?",
+    "submitButton": "লগ ইন",
+    "emailPlaceholder": "আপনার ইমেল লিখুন",
+    "passwordPlaceholder": "আপনার পাসওয়ার্ড লিখুন",
+    "providerSignInContainer": {
+      "wrap": {
+        "small": "অথবা"
+      },
+      "providerButtons": [
+        "গুগল দিয়ে লগ ইন করুন",
+        "ফেসবুক দিয়ে লগ ইন করুন"
+      ]
+    }
+  }
+}

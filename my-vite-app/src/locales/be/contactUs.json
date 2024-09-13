@@ -1,0 +1,48 @@
+{
+  "form": {
+    "leaveMessage": "বার্তা দিন",
+    "title": "আমরা আপনার কাছ থেকে শুনতে চাই!",
+    "fields": {
+      "name": "আপনার নাম",
+      "email": "আপনার ইমেইল",
+      "subject": "আপনার বিষয়",
+      "message": "আপনার বার্তা"
+    },
+    "submitButton": "জমা দিন"
+  },
+  "members": {
+    "sectionTitle": "অ্যাগ্রি দ্রষ্টির সদস্যবৃন্দ",
+    "people": [
+      {
+        "name": "ঋত্বিক চক্রবর্তী",
+        "phone": "ফোন: +91 XXXXXXXXXX",
+        "email": "ইমেইল: abc@gmail.com"
+      },
+      {
+        "name": "নিরঞ্জন প্রভীন",
+        "phone": "ফোন: +91 XXXXXXXXXX",
+        "email": "ইমেইল: abc@gmail.com"
+      },
+      {
+        "name": "দেবশ্রী চৌধুরী",
+        "phone": "ফোন: +91 XXXXXXXXXX",
+        "email": "ইমেইল: abc@gmail.com"
+      },
+      {
+        "name": "অভিষেক চৌবে",
+        "phone": "ফোন: +91 XXXXXXXXXX",
+        "email": "ইমেইল: abc@gmail.com"
+      },
+      {
+        "name": "স্নেহা তানওয়ার",
+        "phone": "ফোন: +91 XXXXXXXXXX",
+        "email": "ইমেইল: abc@gmail.com"
+      },
+      {
+        "name": "প্রথম রঞ্জন",
+        "phone": "ফোন: +91 XXXXXXXXXX",
+        "email": "ইমেইল: abc@gmail.com"
+      }
+    ]
+  }
+}

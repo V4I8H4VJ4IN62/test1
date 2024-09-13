@@ -1,0 +1,21 @@
+{
+  "cropRecommendation": {
+    "backLinkText": "హోమ్ పేజీకి తిరిగి వెళ్ళండి",
+    "title": "పంట సిఫారసు",
+    "placeholders": {
+      "nitrogen": "నత్రజని మోతాదు",
+      "phosphorus": "ఫాస్ఫరస్ మోతాదు",
+      "potassium": "పోటాషియం మోతాదు",
+      "temperature": "తాపమానం (సెల్సియస్ లో)",
+      "humidity": "ఆర్ద్రత మోతాదు",
+      "ph": "మట్టీ pH",
+      "rainfall": "వర్షపాతం మోతాదు"
+    },
+    "cropYield": {
+      "area": "ప్రాంతం (హెక్టార్లలో)",
+      "production": "ఉత్పత్తి (హెక్టోగ్రాములలో)"
+    },
+    "buttonText": "పంట అంచనా వేయండి",
+    "resultTitle": "సిఫారసు చేసిన పంట: {result}"
+  }
+}

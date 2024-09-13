@@ -1,0 +1,32 @@
+{
+  "registerContainer": {
+    "links": [
+      "హోమ్ పేజీకి తిరిగి వెళ్ళండి"
+    ],
+    "logoAlt": "వెబ్సైట్ లోగో",
+    "paragraph": "మీ ఫామ్ బంధు ఖాతా క్రియేట్ చేయండి",
+    "inputs": [
+      {
+        "placeholder": "ఉపయోగదారుని పేరు"
+      },
+      {
+        "placeholder": "ఇమెయిల్"
+      },
+      {
+        "placeholder": "పాస్వర్డ్"
+      }
+    ],
+    "termsText": "ఫారమ్ సమర్పించడంతో మీరు",
+    "termsLink": "సేవా నిబంధనలను",
+    "submitButton": "ఇప్పుడే జాయిన్ అవ్వండి",
+    "providerSignInContainer": {
+      "wrap": {
+        "small": "లేదా"
+      },
+      "providerButtons": [
+        "గూగుల్ తో కొనసాగించండి",
+        "ఫేస్‌బుక్ తో కొనసాగించండి"
+      ]
+    }
+  }
+}

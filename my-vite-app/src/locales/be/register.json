@@ -1,0 +1,32 @@
+{
+  "registerContainer": {
+    "links": [
+      "মুখ্য পৃষ্ঠায় ফিরে যান"
+    ],
+    "logoAlt": "ওয়েবসাইট লোগো",
+    "paragraph": "আপনার ফার্ম বন্ধুর অ্যাকাউন্ট তৈরি করুন",
+    "inputs": [
+      {
+        "placeholder": "ব্যবহারকারীর নাম"
+      },
+      {
+        "placeholder": "ইমেল"
+      },
+      {
+        "placeholder": "পাসওয়ার্ড"
+      }
+    ],
+    "termsText": "ফর্ম জমা দিয়ে আপনি",
+    "termsLink": "সেবার শর্তাবলী গ্রহণ করেন",
+    "submitButton": "এখন যোগ দিন",
+    "providerSignInContainer": {
+      "wrap": {
+        "small": "অথবা"
+      },
+      "providerButtons": [
+        "গুগল দিয়ে চালিয়ে যান",
+        "ফেসবুক দিয়ে চালিয়ে যান"
+      ]
+    }
+  }
+}

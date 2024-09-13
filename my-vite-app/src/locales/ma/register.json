@@ -1,0 +1,32 @@
+{
+  "registerContainer": {
+    "links": [
+      "मुख्य पृष्ठावर परत जा"
+    ],
+    "logoAlt": "वेबसाइट लोगो",
+    "paragraph": "आपले फार्म बंधू खाते तयार करा",
+    "inputs": [
+      {
+        "placeholder": "वापरकर्ता नाव"
+      },
+      {
+        "placeholder": "ईमेल"
+      },
+      {
+        "placeholder": "पासवर्ड"
+      }
+    ],
+    "termsText": "फॉर्म सबमिट करून आपण",
+    "termsLink": "सेवा अटींशी सहमती दर्शविता",
+    "submitButton": "आता सामील व्हा",
+    "providerSignInContainer": {
+      "wrap": {
+        "small": "किंवा"
+      },
+      "providerButtons": [
+        "Google सह पुढे जा",
+        "Facebook सह पुढे जा"
+      ]
+    }
+  }
+}

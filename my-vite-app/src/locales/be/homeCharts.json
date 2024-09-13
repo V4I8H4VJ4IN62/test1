@@ -1,0 +1,24 @@
+{
+  "homeCharts": {
+    "historicalGrowthRates": {
+      "title": "ফসলের শ্রেণীর ঐতিহাসিক বৃদ্ধি হার",
+      "dataAvailable": "growthRates.length > 0",
+      "chartType": "লাইন"
+    },
+    "areaSharesOfCropCategories": {
+      "title": "ফসলের শ্রেণীর এলাকার শেয়ার",
+      "dataAvailable": "priceRealisation.length > 0",
+      "chartType": "পাই"
+    },
+    "areaSharesToGCA": {
+      "title": "GCA-তে ফসলের শ্রেণীর এলাকার শেয়ার",
+      "dataAvailable": "areaShares.length > 0",
+      "chartType": "বার"
+    },
+    "valueSharesOfCropCategories": {
+      "title": "ফসলের শ্রেণীর মূল্য শেয়ার",
+      "dataAvailable": "valueShares.length > 0",
+      "chartType": "লাইন"
+    }
+  }
+}

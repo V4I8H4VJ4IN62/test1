@@ -1,0 +1,38 @@
+{
+    "form": {
+        "step1": {
+            "backLinkText": "मुख्य पृष्ठावर परत जा",
+            "title": "किंमत तुलना, जमीन आकार तुलना आणि आपल्या प्रदेशाच्या विशिष्ट परिस्थितींनुसार पिकांच्या कार्यक्षमता विश्लेषण मिळवण्यासाठी खालील तपशील भरा.",
+            "menuSteps": ["1", "2"],
+            "cropSelection": {
+                "label": "आपल्या पिकाचा प्रकार निवडा",
+                "errorMessage": "कृपया पुढे जाण्यासाठी एक पर्याय निवडा",
+                "nextButtonText": "पुढे"
+            }
+        },
+        "step2": {
+            "stateSelection": {
+                "label": "आपला राज्य निवडा",
+                "errorMessage": "कृपया पुढे जाण्यासाठी एक पर्याय निवडा"
+            },
+            "districtSelection": {
+                "label": "आपला जिल्हा निवडा",
+                "errorMessage": "कृपया पुढे जाण्यासाठी एक पर्याय निवडा"
+            },
+            "farmLandArea": {
+                "label": "आपले शेताचे क्षेत्रफळ प्रविष्ट करा",
+                "hint": "(हेक्टेअर मध्ये)",
+                "inputPlaceholder": "उदा. 4.7"
+            },
+            "buttons": {
+                "backButtonText": "मागे",
+                "submitButtonText": "डेटा मिळवा"
+            },
+            "submittedData": {
+                "cropLabel": "crop.label",
+                "stateLabel": "state.label",
+                "hectares": "formData.area"
+            }
+        }
+    }
+}

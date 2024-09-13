@@ -1,0 +1,24 @@
+{
+  "homeCharts": {
+    "historicalGrowthRates": {
+      "title": "పంట జాతుల చారిత్రక వృద్ధి రేటులు",
+      "dataAvailable": "growthRates.length > 0",
+      "chartType": "లైన్"
+    },
+    "areaSharesOfCropCategories": {
+      "title": "పంట జాతుల ప్రాంతీయ వాటాలు",
+      "dataAvailable": "priceRealisation.length > 0",
+      "chartType": "పీఈ"
+    },
+    "areaSharesToGCA": {
+      "title": "GCA కు పంట జాతుల ప్రాంతీయ వాటాలు",
+      "dataAvailable": "areaShares.length > 0",
+      "chartType": "బార్"
+    },
+    "valueSharesOfCropCategories": {
+      "title": "పంట జాతుల విలువ వాటాలు",
+      "dataAvailable": "valueShares.length > 0",
+      "chartType": "లైన్"
+    }
+  }
+}

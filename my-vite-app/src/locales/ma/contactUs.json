@@ -1,0 +1,48 @@
+{
+  "form": {
+    "leaveMessage": "संदेश ठेवा",
+    "title": "आम्हाला तुमच्याकडून ऐकायला आवडेल!",
+    "fields": {
+      "name": "तुमचे नाव",
+      "email": "तुमचा ईमेल",
+      "subject": "तुमचा विषय",
+      "message": "तुमचा संदेश"
+    },
+    "submitButton": "सबमिट करा"
+  },
+  "members": {
+    "sectionTitle": "अ‍ॅग्रीदृष्टीचे सदस्य",
+    "people": [
+      {
+        "name": "वैभव जैन",
+        "phone": "फोन: +91 XXXXXXXXXX",
+        "email": "ईमेल: abc@gmail.com"
+      },
+      {
+        "name": "निरंजन प्रविण",
+        "phone": "फोन: +91 XXXXXXXXXX",
+        "email": "ईमेल: abc@gmail.com"
+      },
+      {
+        "name": "देबशता चौधरी",
+        "phone": "फोन: +91 XXXXXXXXXX",
+        "email": "ईमेल: abc@gmail.com"
+      },
+      {
+        "name": "अभिषेक चौबे",
+        "phone": "फोन: +91 XXXXXXXXXX",
+        "email": "ईमेल: abc@gmail.com"
+      },
+      {
+        "name": "स्नेहा तंवर",
+        "phone": "फोन: +91 XXXXXXXXXX",
+        "email": "ईमेल: abc@gmail.com"
+      },
+      {
+        "name": "प्रथम रंजन",
+        "phone": "फोन: +91 XXXXXXXXXX",
+        "email": "ईमेल: abc@gmail.com"
+      }
+    ]
+  }
+}

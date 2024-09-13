@@ -1,0 +1,21 @@
+{
+  "cropRecommendation": {
+    "backLinkText": "হোম পেজে ফিরে যান",
+    "title": "ফসলের সুপারিশ",
+    "placeholders": {
+      "nitrogen": "নাইট্রোজেনের শতাংশ",
+      "phosphorus": "ফসফরাসের শতাংশ",
+      "potassium": "পটাসিয়ামের শতাংশ",
+      "temperature": "তাপমাত্রা (ডিগ্রী সেলসিয়াসে)",
+      "humidity": "আর্দ্রতার শতাংশ",
+      "ph": "মাটির pH",
+      "rainfall": "বৃষ্টিপাতের শতাংশ"
+    },
+    "cropYield": {
+      "area": "এলাকা (হেক্টরে)",
+      "production": "উৎপাদন (হেক্টোগ্রামে)"
+    },
+    "buttonText": "ফসল ভবিষ্যদ্বাণী করুন",
+    "resultTitle": "সুপারিশকৃত ফসল: {result}"
+  }
+}
